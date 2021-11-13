@@ -148,11 +148,11 @@ for id, (x, y, w, h) in enumerate(ary):
 # recognize_text(src)
 # cv2.waitKey(0)
 
-idno.send_keys('H224923457')
-pname.send_keys('蘇姸寧')
-rmsdata.send_keys('19990410')
-cellphone.send_keys('0981998161')
-lineid.send_keys('0981998161')
+idno.send_keys('')
+pname.send_keys('')
+rmsdata.send_keys('')
+cellphone.send_keys('')
+lineid.send_keys('')
 lineid.submit()
 time.sleep(3)
 
